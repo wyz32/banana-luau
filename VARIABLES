@@ -1,0 +1,16 @@
+now everything made in banana-luau is going to be either short and good, or long and good.
+its kinda based which one u do (ur choice)
+
+direct variable shortcuts u can use!
+
+--local variables = {"
+local WS = game:GetService("Workspace")
+local RS = game:GetService("ReplicatedStorage")
+local TS = game:GetService("TweenService")
+local SS = game:GetService("ServerStorage")
+local SSS = game:GetService("ServerScriptService")
+local StarterPlayer = game:GetService("StarterPlayer")
+local StarterCharacterScripts = game:GetService("StarterCharacterScripts")
+local StarterPlayerScripts = game:GetService("StarterPlayerScripts")
+local SS = game:GetService("SoundService")
+--"}
